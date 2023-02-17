@@ -1,0 +1,18 @@
+<html><table>
+<tr><td colspan="2" align="center"><img width="0" height="0"><br/>⌈ PixiGeko | 1.16.5-rc1 ⌋<br/><img width="0" height="0"></td></tr>
+<tr><th>Id</th><td>1.16.5-rc1</td></tr>
+<tr><th>Type</th><td>releases-candidate</td></tr>
+<tr><th>Release time</th><td>2021-01-13T15:58:55+00:00</td></tr>
+<tr><th>SHA1</th><td>ec36dacfce7475bc0383bcb3b4bcb07764238b18</td></tr>
+<tr><th>Url</th><td><a href="https://launchermeta.mojang.com/v1/packages/ec36dacfce7475bc0383bcb3b4bcb07764238b18/1.16.5-rc1.json">https://launchermeta.mojang.com/v1/packages/ec36dacfce7475bc0383bcb3b4bcb07764238b18/1.16.5-rc1.json</a></td></tr>
+</table></html>
+<br/>
+<html><table>
+<tr><td colspan="2" align="center"><img width="5000" height="0"><br/>
+<a href="https://github.com/PixiGeko/Minecraft-default-assets">Minecraft-default-assets</a>
+<br/><img width="0" height="0"></td></tr>
+<tr><td colspan="2" align="center"><img width="5000" height="0"><br/>
+:warning: This repository is not official, approved, endorsed, associated or connected with Mojang :warning:
+<br/><img width="0" height="0"></td></tr>
+</table></html>
+<br/>
