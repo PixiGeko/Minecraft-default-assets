@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/acacia_bark" },
+        "axis=z": { "model": "block/acacia_bark", "x": 90 },
+        "axis=x": { "model": "block/acacia_bark", "x": 90, "y": 90 }
+    }
+}
