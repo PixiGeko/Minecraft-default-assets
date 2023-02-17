@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "distance=1": { "model": "birch_leaves" },
+        "distance=2": { "model": "birch_leaves" },
+        "distance=3": { "model": "birch_leaves" },
+        "distance=4": { "model": "birch_leaves" },
+        "distance=5": { "model": "birch_leaves" },
+        "distance=6": { "model": "birch_leaves" },
+        "distance=7": { "model": "birch_leaves" }
+    }
+}
