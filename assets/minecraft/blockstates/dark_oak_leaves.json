@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "distance=1": { "model": "dark_oak_leaves" },
+        "distance=2": { "model": "dark_oak_leaves" },
+        "distance=3": { "model": "dark_oak_leaves" },
+        "distance=4": { "model": "dark_oak_leaves" },
+        "distance=5": { "model": "dark_oak_leaves" },
+        "distance=6": { "model": "dark_oak_leaves" },
+        "distance=7": { "model": "dark_oak_leaves" }
+    }
+}
