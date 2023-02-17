@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "powered=false,shape=ascending_east": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail_raised_ne"
+    },
+    "powered=false,shape=ascending_north": {
+      "model": "minecraft:block/powered_rail_raised_ne"
+    },
+    "powered=false,shape=ascending_south": {
+      "model": "minecraft:block/powered_rail_raised_sw"
+    },
+    "powered=false,shape=ascending_west": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail_raised_sw"
+    },
+    "powered=false,shape=east_west": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail"
+    },
+    "powered=false,shape=north_south": {
+      "model": "minecraft:block/powered_rail"
+    },
+    "powered=true,shape=ascending_east": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail_on_raised_ne"
+    },
+    "powered=true,shape=ascending_north": {
+      "model": "minecraft:block/powered_rail_on_raised_ne"
+    },
+    "powered=true,shape=ascending_south": {
+      "model": "minecraft:block/powered_rail_on_raised_sw"
+    },
+    "powered=true,shape=ascending_west": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail_on_raised_sw"
+    },
+    "powered=true,shape=east_west": {
+      "y": 90,
+      "model": "minecraft:block/powered_rail_on"
+    },
+    "powered=true,shape=north_south": {
+      "model": "minecraft:block/powered_rail_on"
+    }
+  }
+}
