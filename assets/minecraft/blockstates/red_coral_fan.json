@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "red_coral_fan", "y": 90 },
+        "facing=south": { "model": "red_coral_fan", "y": 180 },
+        "facing=west": { "model": "red_coral_fan", "y": 270 },
+        "facing=north": { "model": "red_coral_fan", "y": 0 }
+    }
+}
