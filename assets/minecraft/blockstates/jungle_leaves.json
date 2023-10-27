@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "distance=1": { "model": "jungle_leaves" },
+        "distance=2": { "model": "jungle_leaves" },
+        "distance=3": { "model": "jungle_leaves" },
+        "distance=4": { "model": "jungle_leaves" },
+        "distance=5": { "model": "jungle_leaves" },
+        "distance=6": { "model": "jungle_leaves" },
+        "distance=7": { "model": "jungle_leaves" }
+    }
+}

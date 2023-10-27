@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "distance=1": { "model": "spruce_leaves" },
+        "distance=2": { "model": "spruce_leaves" },
+        "distance=3": { "model": "spruce_leaves" },
+        "distance=4": { "model": "spruce_leaves" },
+        "distance=5": { "model": "spruce_leaves" },
+        "distance=6": { "model": "spruce_leaves" },
+        "distance=7": { "model": "spruce_leaves" }
+    }
+}
