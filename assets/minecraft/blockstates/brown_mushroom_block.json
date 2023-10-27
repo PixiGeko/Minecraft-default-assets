@@ -1,0 +1,120 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 90,
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 180,
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 270,
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "x": 270,
+        "uvlock": true,
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "down": "true"
+      },
+      "apply": {
+        "x": 90,
+        "uvlock": true,
+        "model": "minecraft:block/brown_mushroom_block"
+      }
+    },
+    {
+      "when": {
+        "north": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    },
+    {
+      "when": {
+        "east": "false"
+      },
+      "apply": {
+        "uvlock": false,
+        "y": 90,
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    },
+    {
+      "when": {
+        "south": "false"
+      },
+      "apply": {
+        "uvlock": false,
+        "y": 180,
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    },
+    {
+      "when": {
+        "west": "false"
+      },
+      "apply": {
+        "uvlock": false,
+        "y": 270,
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    },
+    {
+      "when": {
+        "up": "false"
+      },
+      "apply": {
+        "x": 270,
+        "uvlock": false,
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    },
+    {
+      "when": {
+        "down": "false"
+      },
+      "apply": {
+        "x": 90,
+        "uvlock": false,
+        "model": "minecraft:block/mushroom_block_inside"
+      }
+    }
+  ]
+}
