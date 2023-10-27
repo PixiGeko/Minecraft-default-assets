@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/mossy_stone_brick_wall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "minecraft:block/mossy_stone_brick_wall_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/mossy_stone_brick_wall_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "y": 180,
+        "model": "minecraft:block/mossy_stone_brick_wall_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "y": 270,
+        "model": "minecraft:block/mossy_stone_brick_wall_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "minecraft:block/mossy_stone_brick_wall_side_tall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/mossy_stone_brick_wall_side_tall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "y": 180,
+        "model": "minecraft:block/mossy_stone_brick_wall_side_tall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "y": 270,
+        "model": "minecraft:block/mossy_stone_brick_wall_side_tall",
+        "uvlock": true
+      }
+    }
+  ]
+}

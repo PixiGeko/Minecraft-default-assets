@@ -1,0 +1,222 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "y": 90,
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "y": 180,
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "y": 270,
+        "model": "minecraft:block/chorus_plant_side",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "x": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "down": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/chorus_plant_side",
+        "x": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "north": "false"
+      },
+      "apply": [
+        {
+          "weight": 2,
+          "model": "minecraft:block/chorus_plant_noside"
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1"
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2"
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3"
+        }
+      ]
+    },
+    {
+      "when": {
+        "east": "false"
+      },
+      "apply": [
+        {
+          "y": 90,
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true
+        },
+        {
+          "y": 90,
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true
+        },
+        {
+          "y": 90,
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true
+        },
+        {
+          "weight": 2,
+          "y": 90,
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true
+        }
+      ]
+    },
+    {
+      "when": {
+        "south": "false"
+      },
+      "apply": [
+        {
+          "y": 180,
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true
+        },
+        {
+          "y": 180,
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true
+        },
+        {
+          "weight": 2,
+          "y": 180,
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true
+        },
+        {
+          "y": 180,
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true
+        }
+      ]
+    },
+    {
+      "when": {
+        "west": "false"
+      },
+      "apply": [
+        {
+          "y": 270,
+          "model": "minecraft:block/chorus_plant_noside3",
+          "uvlock": true
+        },
+        {
+          "weight": 2,
+          "y": 270,
+          "model": "minecraft:block/chorus_plant_noside",
+          "uvlock": true
+        },
+        {
+          "y": 270,
+          "model": "minecraft:block/chorus_plant_noside1",
+          "uvlock": true
+        },
+        {
+          "y": 270,
+          "model": "minecraft:block/chorus_plant_noside2",
+          "uvlock": true
+        }
+      ]
+    },
+    {
+      "when": {
+        "up": "false"
+      },
+      "apply": [
+        {
+          "weight": 2,
+          "model": "minecraft:block/chorus_plant_noside",
+          "x": 270,
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "x": 270,
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "x": 270,
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "x": 270,
+          "uvlock": true
+        }
+      ]
+    },
+    {
+      "when": {
+        "down": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/chorus_plant_noside3",
+          "x": 90,
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside2",
+          "x": 90,
+          "uvlock": true
+        },
+        {
+          "model": "minecraft:block/chorus_plant_noside1",
+          "x": 90,
+          "uvlock": true
+        },
+        {
+          "weight": 2,
+          "model": "minecraft:block/chorus_plant_noside",
+          "x": 90,
+          "uvlock": true
+        }
+      ]
+    }
+  ]
+}
