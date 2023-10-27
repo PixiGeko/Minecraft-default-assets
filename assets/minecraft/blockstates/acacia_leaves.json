@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "distance=1": { "model": "acacia_leaves" },
+        "distance=2": { "model": "acacia_leaves" },
+        "distance=3": { "model": "acacia_leaves" },
+        "distance=4": { "model": "acacia_leaves" },
+        "distance=5": { "model": "acacia_leaves" },
+        "distance=6": { "model": "acacia_leaves" },
+        "distance=7": { "model": "acacia_leaves" }
+    }
+}
