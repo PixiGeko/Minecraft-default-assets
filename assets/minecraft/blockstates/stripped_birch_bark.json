@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "stripped_birch_bark" },
+        "axis=z": { "model": "stripped_birch_bark", "x": 90 },
+        "axis=x": { "model": "stripped_birch_bark", "x": 90, "y": 90 }
+    }
+}
