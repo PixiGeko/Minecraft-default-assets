@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "pack_format": 51,
+    "description": [
+      {
+        "text": "Default pack for "
+      },
+      {
+        "text": "24w35a",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\nhttps://github.com/PixiGeko/Minecraft-default-assets/tree/24w35a",
+        "color": "blue",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/PixiGeko/Minecraft-default-assets/tree/24w35a"
+        }
+      }
+    ]
+  }
+}
