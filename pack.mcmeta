@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "pack_format": 57,
+    "description": [
+      {
+        "text": "Default pack for "
+      },
+      {
+        "text": "1.21.2-rc1",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\nhttps://github.com/PixiGeko/Minecraft-default-assets/tree/1.21.2-rc1",
+        "color": "blue",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/PixiGeko/Minecraft-default-assets/tree/1.21.2-rc1"
+        }
+      }
+    ]
+  }
+}
