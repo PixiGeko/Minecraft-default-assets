@@ -1,0 +1,30 @@
+{
+  "pack": {
+    "min_format": [
+      84,
+      0
+    ],
+    "max_format": [
+      84,
+      0
+    ],
+    "description": [
+      {
+        "text": "Default pack for "
+      },
+      {
+        "text": "25w34b",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\nhttps://github.com/PixiGeko/Minecraft-default-assets/tree/25w34b",
+        "color": "blue",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/PixiGeko/Minecraft-default-assets/tree/25w34b"
+        }
+      }
+    ]
+  }
+}
