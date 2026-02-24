@@ -1,0 +1,30 @@
+{
+  "pack": {
+    "min_format": [
+      99,
+      3
+    ],
+    "max_format": [
+      99,
+      3
+    ],
+    "description": [
+      {
+        "text": "Default pack for "
+      },
+      {
+        "text": "26.1-snapshot-10",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "\nhttps://github.com/PixiGeko/Minecraft-default-assets/tree/26.1-snapshot-10",
+        "color": "blue",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/PixiGeko/Minecraft-default-assets/tree/26.1-snapshot-10"
+        }
+      }
+    ]
+  }
+}
